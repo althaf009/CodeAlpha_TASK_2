@@ -30,7 +30,7 @@ Open index.html in your web browser (e.g., Chrome, Firefox, Edge) to view the tr
 Contact
 For any questions or additional information, please contact us at:
 
-Email: support@yourorganization.com
+Email: support@aware.com
 Phone: +1-234-567-890
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
