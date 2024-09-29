@@ -51,4 +51,4 @@ git push origin main
 
 
 ### View In Web Browser
-https://althaf009.github.io/phishing-awareness-training/
+ https://althaf009.github.io/CodeAlpha_TASK_2/
